@@ -76,7 +76,7 @@ function App() {
   return (
     <>
       <Navbar></Navbar>
-      <Progress inProgress={inProgress} resolved={resolved} ></Progress>f
+      <Progress inProgress={inProgress} resolved={resolved} ></Progress>
       <div className="mx-2 lg:flex lg:mx-15 gap-x-6 mt-20">
         <div>
           <h3 className='font-semibold text-[24px] max-sm:text-center'>Customer Tickets</h3>
